@@ -1,0 +1,32 @@
+- [ ]  Answer Forensics
+- [ ]  Enable Unattended Upgrades
+- [ ]  User Auditing
+- [ ]  Password Auditing
+- [ ]  Enable Firewall
+- [ ]  Search for unwanted software/programs/files
+- [ ]  Updates
+- [ ]  Firefox Securitya
+- [ ]  Check for open ports
+- [ ]  Disable unused file systems
+- [ ]  Ensure AIDE is installed and is enabled
+- [ ]  Secure boot settings
+- [ ]  Prevent buffer overflow with XD/NX
+- [ ]  Configure app armor
+- [ ]  Configure command line warning banners
+- [ ]  Ensure system time sync is enabled
+- [ ]  Remove CUPS
+- [ ]  Disable IPv6
+- [ ]  Disable IP forwarding
+- [ ]  Disallow source routers packets and ICMP redirects
+- [ ]  Ensure syncookie protection is enabled
+- [ ]  Ensure IPv6 router ads are not accepted
+- [ ]  Disable uncommon network protocols
+- [ ]  Ensure iptables not installed along with ufw
+- [ ]  Check for SUID binaries
+- [ ]  Check sudoers file for over prived users
+- [ ]  Check binary capabilities
+- [ ]  Make sure running off default dns
+- [ ]  Check file perms on sensitive files
+- [ ]  Check crons
+- [ ]  Disable NFS root squashing
+- [ ]  Check env variables
